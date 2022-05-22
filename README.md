@@ -3,3 +3,5 @@
 
 ## Links Úteis 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+Repositório criado através das aulas  do módulo 1 do BootCamp TQI.
